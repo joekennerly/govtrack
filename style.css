@@ -1,0 +1,20 @@
+body {
+  background: black;
+  color:white;
+  font-family: arial, sans-serif;
+}
+
+nav li {
+  display:inline-block;
+  margin-right:10px;
+}
+
+#basic-info {
+  text-align: center;
+}
+
+.profile {
+  height:360px;
+  width:300px;
+  border: 5px solid white;
+}
